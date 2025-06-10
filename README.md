@@ -86,7 +86,7 @@
 + Enhancing my MERN stack skills
 ! Building responsive web applications
 # Learning new frontend frameworks
-```
+``` 
 
 </div>
 
