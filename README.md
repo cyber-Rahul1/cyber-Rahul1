@@ -20,6 +20,45 @@
 
 </div>
 
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello World! I'm Rahul Satvik
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=00F72D&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Open+Source+Contributor;MERN+Stack+Enthusiast" alt="Typing SVG" />
+</div>
+
+## 🚀 Featured Projects
+
+<div align="center" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; margin: 30px 0;">
+
+### JobFinder Platform
+[![Screenshot 2025-04-25 153405](https://github.com/user-attachments/assets/ddd21c07-7139-41b7-851c-ec913d240c34)
+](https://job-hosting-frontend.onrender.com)
+> Job board with direct applications  
+> *Tech*: React, Node.js, MongoDB  
+> [![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-00F72D?style=for-the-badge&logo=render&logoColor=black)](https://job-hosting-frontend.onrender.com)
+
+---
+
+### Food Order System
+[![Screenshot 2025-04-25 153656](https://github.com/user-attachments/assets/96253b1c-2d86-4cb4-a70c-0d97986ee331)
+](https://foodorder-frontend-rmnv.onrender.com)
+> Restaurant ordering interface  
+> *Tech*: React, Express  
+> [![Live Demo](https://img.shields.io/badge/🍔_Live_Demo-00F72D?style=for-the-badge&logo=render&logoColor=black)](https://foodorder-frontend-rmnv.onrender.com)
+
+---
+
+### BlogApp
+[![Screenshot 2025-04-25 153609](https://github.com/user-attachments/assets/f76bca66-4914-4d8f-b722-b5bf1dd1dd44)
+](https://blogapp-frontend-kvye.onrender.com)
+> Modern blogging platform  
+> *Tech*: MERN Stack  
+> [![Live Demo](https://img.shields.io/badge/✍_Live_Demo-00F72D?style=for-the-badge&logo=render&logoColor=black)](https://blogapp-frontend-kvye.onrender.com)
+
+</div>
+
+[... rest of your existing content ...]
+
 ## 📊 GitHub Analytics
 
 <div align="center">
