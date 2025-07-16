@@ -33,12 +33,15 @@
 
 ### Food Order System
 [![Screenshot 2025-04-25 153656](https://github.com/user-attachments/assets/96253b1c-2d86-4cb4-a70c-0d97986ee331)
-](https://foodorder-frontend-rmnv.onrender.com)
+](https://foodorder-frontend-rmnv.onrender.com)  
 > Restaurant ordering interface  
 > *Tech*: React, Express  
-> [![Live Demo](https://img.shields.io/badge/🍔_Live_Demo-00F72D?style=for-the-badge&logo=render&logoColor=black)](https://foodorder-frontend-rmnv.onrender.com)
 
+[![Live Demo](https://img.shields.io/badge/🍔_Live_Demo-00F72D?style=for-the-badge&logo=render&logoColor=black)](https://foodorder-frontend-rmnv.onrender.com)
+&nbsp;
+[![Admin Panel](https://img.shields.io/badge/🔒_Admin_Panel-FF5733?style=for-the-badge&logo=vercel&logoColor=black)](https://foodorder-admin-a9jl.onrender.com)
 ---
+
 
 ### BlogApp
 [![Screenshot 2025-04-25 153609](https://github.com/user-attachments/assets/f76bca66-4914-4d8f-b722-b5bf1dd1dd44)
