@@ -50,6 +50,20 @@
 > *Tech*: MERN Stack  
 > [![Live Demo](https://img.shields.io/badge/✍_Live_Demo-00F72D?style=for-the-badge&logo=render&logoColor=black)](https://blogapp-frontend-kvye.onrender.com)
 
+---
+
+### E-Commerce Website
+[![Screenshot](https://github.com/user-attachments/assets/YOUR_IMAGE_ID_HERE)
+](https://microgreens-1.onrender.com)  
+> Full-featured online store with secure payments via Razorpay  
+> *Tech*: MERN Stack (MongoDB, Express, React, Node.js), Razorpay Integration  
+
+[![Live Demo](https://img.shields.io/badge/🛒_Live_Demo-00F72D?style=for-the-badge&logo=render&logoColor=black)](https://yourecommercefrontend.onrender.com)
+&nbsp;
+[![Admin Panel](https://img.shields.io/badge/🔒_Admin_Panel-FF5733?style=for-the-badge&logo=vercel&logoColor=black)](https://microgreens-2.onrender.com)
+
+
+
 </div>
 
 
