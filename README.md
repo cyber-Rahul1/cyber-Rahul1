@@ -53,7 +53,7 @@
 ---
 
 ### E-Commerce Website
-[![Screenshot](https://github.com/user-attachments/assets/YOUR_IMAGE_ID_HERE)
+[![Screenshot_20250716-170318.png](https://github.com/user-attachments/assets/26e77a39-3bac-4c84-9365-56f507c5bb59)
 ](https://microgreens-1.onrender.com)  
 > Full-featured online store with secure payments via Razorpay  
 > *Tech*: MERN Stack (MongoDB, Express, React, Node.js), Razorpay Integration  
