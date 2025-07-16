@@ -21,11 +21,11 @@
 
 ### Cricket Ground Booking System
 [![Screenshot 2025-06-10 202245](https://github.com/user-attachments/assets/583f4959-743f-4f33-a142-82d80eee0c7c)
-](https://cricketclub.onrender.com)
+](https://cricketclub.onrender.com)  
 > Cricket ground discovery and booking platform  
 > *Tech*: MERN Stack (MongoDB, Express, React, Node.js)  
-> [![Live Demo](https://img.shields.io/badge/🏏_Live_Demo-00F72D?style=for-the-badge&logo=render&logoColor=black)](https://cricketclub.onrender.com)
-
+> [![Live Demo](https://img.shields.io/badge/🏏_Live_Demo-00F72D?style=for-the-badge&logo=render&logoColor=black)](https://cricketclub.onrender.com)  
+> [Admin Panel](https://cricketclub-admin.onrender.com)
 ---
 
 ### Food Order System
