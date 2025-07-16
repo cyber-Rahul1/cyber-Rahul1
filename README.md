@@ -24,9 +24,10 @@
 ](https://cricketclub.onrender.com)  
 > Cricket ground discovery and booking platform  
 > *Tech*: MERN Stack (MongoDB, Express, React, Node.js)  
-> [![Live Demo](https://img.shields.io/badge/🏏_Live_Demo-00F72D?style=for-the-badge&logo=render&logoColor=black)](https://cricketclub.onrender.com)  
-> [![Admin Panel](https://img.shields.io/badge/🔒_Admin_Panel-FF5733?style=for-the-badge&logo=vercel&logoColor=black)](https://cricketclub-admin.onrender.com)
 
+[![Live Demo](https://img.shields.io/badge/🏏_Live_Demo-00F72D?style=for-the-badge&logo=render&logoColor=black)](https://cricketclub.onrender.com)
+&nbsp;
+[![Admin Panel](https://img.shields.io/badge/🔒_Admin_Panel-FF5733?style=for-the-badge&logo=vercel&logoColor=black)](https://cricketclub-admin.onrender.com)
 ---
 
 
