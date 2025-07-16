@@ -25,8 +25,10 @@
 > Cricket ground discovery and booking platform  
 > *Tech*: MERN Stack (MongoDB, Express, React, Node.js)  
 > [![Live Demo](https://img.shields.io/badge/🏏_Live_Demo-00F72D?style=for-the-badge&logo=render&logoColor=black)](https://cricketclub.onrender.com)  
-> [Admin Panel](https://cricketclub-admin.onrender.com)
+> [![Admin Panel](https://img.shields.io/badge/🔒_Admin_Panel-FF5733?style=for-the-badge&logo=vercel&logoColor=black)](https://cricketclub-admin.onrender.com)
+
 ---
+
 
 ### Food Order System
 [![Screenshot 2025-04-25 153656](https://github.com/user-attachments/assets/96253b1c-2d86-4cb4-a70c-0d97986ee331)
