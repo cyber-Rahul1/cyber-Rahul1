@@ -10,11 +10,20 @@
 
 <div align="center" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; margin: 30px 0;">
 
+### Instagram Clone  
+[<img width="1891" height="908" alt="Screenshot 2025-07-30 142621" src="https://github.com/user-attachments/assets/79ca3c9a-015b-44bd-85b1-5ea851cb7ebc" />
+](https://instagram-n6oq.onrender.com)  
+> A full-featured social media application with real-time messaging, post uploads, comments, and more.  
+> *Tech*: React, Node.js, MongoDB, Express, Socket.IO, TailwindCSS, Cloudinary, Firebase  
+> [![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-00F72D?style=for-the-badge&logo=render&logoColor=black)](https://instagram-n6oq.onrender.com)
+
+---
+
 ### JobFinder Platform
 [![Screenshot 2025-04-25 153405](https://github.com/user-attachments/assets/ddd21c07-7139-41b7-851c-ec913d240c34)
 ](https://job-hosting-frontend.onrender.com)
 > Job board with direct applications  
-> *Tech*: React, Node.js, MongoDB  
+> *Tech*: React, TailwindCSS, Express, Node.js, MongoDB  
 > [![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-00F72D?style=for-the-badge&logo=render&logoColor=black)](https://job-hosting-frontend.onrender.com)
 
 ---
@@ -35,7 +44,7 @@
 [![Screenshot 2025-04-25 153656](https://github.com/user-attachments/assets/96253b1c-2d86-4cb4-a70c-0d97986ee331)
 ](https://foodorder-frontend-rmnv.onrender.com)  
 > Restaurant ordering interface  
-> *Tech*: React, Express  
+> *Tech*: React, TailwindCSS, Express, Nodejs, MongoDB   
 
 [![Live Demo](https://img.shields.io/badge/🍔_Live_Demo-00F72D?style=for-the-badge&logo=render&logoColor=black)](https://foodorder-frontend-rmnv.onrender.com)
 &nbsp;
@@ -47,7 +56,7 @@
 [![Screenshot 2025-04-25 153609](https://github.com/user-attachments/assets/f76bca66-4914-4d8f-b722-b5bf1dd1dd44)
 ](https://blogapp-frontend-kvye.onrender.com)
 > Modern blogging platform  
-> *Tech*: MERN Stack  
+> *Tech*: MERN Stack (MongoDB, Express, React, Node.js), TailwindCSS 
 > [![Live Demo](https://img.shields.io/badge/✍_Live_Demo-00F72D?style=for-the-badge&logo=render&logoColor=black)](https://blogapp-frontend-kvye.onrender.com)
 
 ---
