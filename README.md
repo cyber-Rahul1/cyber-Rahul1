@@ -11,7 +11,7 @@
 <div align="center" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; margin: 30px 0;">
 
 ### Instagram Clone  
-[<img width="1891" height="908" alt="Screenshot 2025-07-30 142621" src="https://github.com/user-attachments/assets/79ca3c9a-015b-44bd-85b1-5ea851cb7ebc" />
+[<img width="1905" height="950" alt="Screenshot 2025-07-31 153002" src="https://github.com/user-attachments/assets/12897268-1c3e-45b5-b655-5abd3092d501" />
 ](https://instagram-n6oq.onrender.com)  
 > A full-featured social media application with real-time messaging, post uploads, comments, and more.  
 > *Tech*: React, Node.js, MongoDB, Express, Socket.IO, TailwindCSS, Cloudinary, Firebase  
@@ -62,7 +62,7 @@
 ---
 
 ### E-Commerce Website
-[![Screenshot_20250716-170318.png](https://github.com/user-attachments/assets/26e77a39-3bac-4c84-9365-56f507c5bb59)
+[<img width="1903" height="907" alt="Screenshot 2025-08-07 120448" src="https://github.com/user-attachments/assets/6aefde5f-4873-4168-bf5a-5f81f10ed5ff" />
 ](https://microgreens-1.onrender.com)  
 > Full-featured online store with secure payments via Razorpay  
 > *Tech*: MERN Stack (MongoDB, Express, React, Node.js), Razorpay Integration  
