@@ -53,11 +53,12 @@
 
 
 ### BlogApp
-[![Screenshot 2025-04-25 153609](https://github.com/user-attachments/assets/f76bca66-4914-4d8f-b722-b5bf1dd1dd44)
-](https://blogapp-frontend-kvye.onrender.com)
+<img width="1869" height="895" alt="Screenshot 2025-08-20 192303" src="https://github.com/user-attachments/assets/81d531cf-c509-4cb6-8566-c6a151610d1f" />
 > Modern blogging platform  
-> *Tech*: MERN Stack (MongoDB, Express, React, Node.js), TailwindCSS 
-> [![Live Demo](https://img.shields.io/badge/✍_Live_Demo-00F72D?style=for-the-badge&logo=render&logoColor=black)](https://blogapp-frontend-kvye.onrender.com)
+> *Tech*: MERN Stack (MongoDB, Express, React, Node.js), TailwindCSS
+
+ 
+[![Live Demo](https://img.shields.io/badge/✍_Live_Demo-00F72D?style=for-the-badge&logo=render&logoColor=black)](https://blogapp-frontend-kvye.onrender.com)
 
 ---
 
