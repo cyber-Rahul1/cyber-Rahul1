@@ -10,6 +10,18 @@
 
 <div align="center" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; margin: 30px 0;">
 
+
+
+
+### StudyNotes 
+[<img width="1902" height="871" alt="Screenshot 2025-10-16 131256" src="https://github.com/user-attachments/assets/3b81c032-8cac-4ae6-9cfe-bfbc6b40dc02" />
+](https://notes-sharing-stj7.onrender.com)  
+> A collaborative notes sharing platform where students can upload and access study materials easily. 
+> *Tech*: React, Node.js, MongoDB, Express, TypeScript, TailwindCSS, Cloudinary, Firebase, React Router DOM       
+> [![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-00F72D?style=for-the-badge&logo=render&logoColor=black)](https://notes-sharing-stj7.onrender.com)
+
+---
+
 ### Instagram Clone  
 [<img width="1905" height="950" alt="Screenshot 2025-07-31 153002" src="https://github.com/user-attachments/assets/12897268-1c3e-45b5-b655-5abd3092d501" />
 ](https://instagram-n6oq.onrender.com)  
@@ -113,9 +125,9 @@
 <div align="center">
   
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&animation=glow)](https://www.linkedin.com/in/rahul-satvik-ab7980324)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=#00C7B7&animation=glow)](https://rahul-satvik.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=#00C7B7&animation=glow)](https://rahul-satvik.netlify.app)
 [![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&animation=glow)](mailto:rahulsatvik09@gmail.com)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&animation=glow)](https://twitter.com/)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&animation=glow)](https://twitter.com)
 
 </div>
 
