@@ -1,183 +1,162 @@
-👋 Hey, I'm Rahul Satvik
+<div align="center">
 
-<div align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00F72D&center=true&vCenter=true&width=750&height=60&lines=Full+Stack+Developer;MERN+Stack+Developer;Building+Scalable+Web+Applications;React+%7C+Node.js+%7C+MongoDB+%7C+Next.js;Turning+Ideas+Into+Production+Ready+Apps" alt="Typing SVG" /><br/><img src="https://komarev.com/ghpvc/?username=cyber-Rahul1&label=PROFILE+VIEWS&color=00F72D&style=for-the-badge" alt="Profile views"/><br/><br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00F72D,100:0D1117&height=220&section=header&text=Rahul%20Satvik&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20MERN%20%26%20Next.js&descAlignY=58&descAlign=50" width="100%"/>
 
-<a href="https://rahul-satvik.netlify.app">
-  <img src="https://img.shields.io/badge/🌐%20Portfolio-00F72D?style=for-the-badge&logoColor=black"/>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3500&pause=1000&color=00F72D&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;MERN+%2B+Next.js+Enthusiast;Building+Eduprova+%26+Zevion;Open+Source+Contributor" alt="Typing SVG" />
 </a>
-<a href="https://www.linkedin.com/in/rahul-satvik-ab7980324">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://github.com/cyber-Rahul1">
-  <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="mailto:rahulsatvik09@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a></div><br/><div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=00F72D&height=120&section=header&animation=twinkling" width="100%"/></div>⚡ About Me
 
-const rahul = {
-    role: "Full Stack Developer",
-    location: "India",
-    stack: ["React", "Node.js", "Express", "MongoDB", "Next.js"],
-    languages: ["JavaScript", "TypeScript"],
-    currentlyLearning: [
-        "Advanced React",
-        "System Design",
-        "Backend Architecture",
-        "Scalable Applications"
-    ],
-    mindset: "Build → Learn → Improve → Repeat"
-};
+<br/>
 
-I build full-stack web applications with a focus on clean architecture, responsive interfaces, real-time functionality and scalable backend systems.
+<img src="https://komarev.com/ghpvc/?username=cyber-Rahul1&label=Profile+Views&color=00F72D&style=for-the-badge" alt="profile views"/>
+<img src="https://img.shields.io/github/followers/cyber-Rahul1?label=Followers&style=for-the-badge&color=00F72D&labelColor=0D1117" alt="followers"/>
 
-My primary ecosystem is the MERN stack, while I also work with Next.js, TypeScript, Tailwind CSS, Socket.IO, Cloudinary, Firebase and modern deployment platforms.
+</div>
 
----
+<br/>
 
-🚀 Featured Projects
+## 👋 About Me
 
-<div align="center">📚 StudyNotes
+<img align="right" width="380" src="https://raw.githubusercontent.com/matiassingers/matiassingers/master/github.gif">
 
-<a href="https://notes-sharing-stj7.onrender.com"><img src="https://github.com/user-attachments/assets/3b81c032-8cac-4ae6-9cfe-bfbc6b40dc02" width="90%" /></a>Collaborative Notes Sharing Platform
+- 🔭 Currently building **Eduprova** — a large-scale social & educational platform
+- 🎨 Also crafting **Zevion** — a cinematic Next.js agency landing page
+- 🧠 Deep focus on real-time systems: live streaming, calling, and messaging at scale
+- 🌱 Sharpening advanced React patterns & scalable full-stack architecture
+- 🎮 When not coding, competing in **Free Fire** or exploring digital art
+- 📍 Based in Vizianagaram, India — working as a Team Lead, freelance
 
-A platform where students can upload, discover and access educational resources.
+<br clear="right"/>
 
-"React" "TypeScript" "Node.js" "Express" "MongoDB" "Cloudinary" "Firebase" "Tailwind CSS"
+## 🛠 Tech Stack
 
-<br/><a href="https://notes-sharing-stj7.onrender.com">
-<img src="https://img.shields.io/badge/🚀%20LIVE%20DEMO-00F72D?style=for-the-badge&logoColor=black"/>
-</a></div>---
+<div align="center">
 
-<div align="center">📸 Instagram Clone
+**Frontend**
+<br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind,js,html,css&theme=dark" />
 
-<a href="https://instagram-n6oq.onrender.com"><img src="https://github.com/user-attachments/assets/12897268-1c3e-45b5-b655-5abd3092d501" width="90%" /></a>Full-Stack Social Media Platform
+**Backend**
+<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,mongodb,redis,socketio&theme=dark" />
 
-Includes posts, comments, media uploads, real-time messaging and notifications.
+**Tools & Platforms**
+<br/>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,firebase,vscode,postman,figma&theme=dark" />
 
-"React" "Node.js" "Express" "MongoDB" "Socket.IO" "Cloudinary" "Firebase"
+</div>
 
-<br/><a href="https://instagram-n6oq.onrender.com">
-<img src="https://img.shields.io/badge/🚀%20LIVE%20DEMO-00F72D?style=for-the-badge&logoColor=black"/>
-</a></div>---
+<br/>
 
-<div align="center">💼 JobFinder
+## 🚀 Featured Projects
 
-<a href="https://job-hosting-frontend.onrender.com"><img src="https://github.com/user-attachments/assets/ddd21c07-7139-41b7-851c-ec913d240c34" width="90%" /></a>Job Discovery & Application Platform
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 
-A full-stack job board allowing users to discover jobs and apply directly.
+### 📚 StudyNotes
+<img width="100%" alt="StudyNotes" src="https://github.com/user-attachments/assets/3b81c032-8cac-4ae6-9cfe-bfbc6b40dc02"/>
 
-"React" "Tailwind CSS" "Node.js" "Express" "MongoDB"
+A collaborative notes-sharing platform where students upload and access study materials easily.
 
-<br/><a href="https://job-hosting-frontend.onrender.com">
-<img src="https://img.shields.io/badge/🚀%20LIVE%20DEMO-00F72D?style=for-the-badge&logoColor=black"/>
-</a></div>---
+`React` `Node.js` `MongoDB` `TypeScript` `Firebase`
 
-<div align="center">🏏 Cricket Ground Booking
+</td>
+<td width="50%" valign="top">
 
-<a href="https://cricketclub.onrender.com"><img src="https://github.com/user-attachments/assets/583f4959-743f-4f33-a142-82d80eee0c7c" width="90%" /></a>Ground Discovery & Booking Platform
+### 📸 Instagram Clone
+<img width="100%" alt="Instagram Clone" src="https://github.com/user-attachments/assets/12897268-1c3e-45b5-b655-5abd3092d501"/>
 
-Users can discover cricket grounds and book available slots through the platform.
+A full-featured social app with real-time messaging, posts, comments, and more.
 
-"MongoDB" "Express" "React" "Node.js"
+`React` `Socket.IO` `MongoDB` `Cloudinary`
 
-<br/><a href="https://cricketclub.onrender.com">
-<img src="https://img.shields.io/badge/🏏%20LIVE%20DEMO-00F72D?style=for-the-badge&logoColor=black"/>
-</a><a href="https://cricketclub-admin.onrender.com">
-<img src="https://img.shields.io/badge/🔐%20ADMIN%20PANEL-FF5733?style=for-the-badge&logoColor=black"/>
-</a></div>---
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-<div align="center">🍔 Food Order System
+### 📝 BlogApp
+<img width="100%" alt="BlogApp" src="https://github.com/user-attachments/assets/81d531cf-c509-4cb6-8566-c6a151610d1f"/>
 
-<a href="https://foodorder-frontend-rmnv.onrender.com"><img src="https://github.com/user-attachments/assets/96253b1c-2d86-4cb4-a70c-0d97986ee331" width="90%" /></a>Restaurant Ordering Platform
+A modern, minimal blogging platform built on the MERN stack.
 
-A full-stack food ordering application with customer and administration workflows.
+`MongoDB` `Express` `React` `Node.js`
 
-"React" "Tailwind CSS" "Node.js" "Express" "MongoDB"
+</td>
+<td width="50%" valign="top">
 
-<br/><a href="https://foodorder-frontend-rmnv.onrender.com">
-<img src="https://img.shields.io/badge/🍔%20LIVE%20DEMO-00F72D?style=for-the-badge&logoColor=black"/>
-</a><a href="https://foodorder-admin-a9jl.onrender.com">
-<img src="https://img.shields.io/badge/🔐%20ADMIN%20PANEL-FF5733?style=for-the-badge&logoColor=black"/>
-</a></div>---
+### 🛒 E-Commerce Website
+<img width="100%" alt="E-Commerce" src="https://github.com/user-attachments/assets/6aefde5f-4873-4168-bf5a-5f81f10ed5ff"/>
 
-<div align="center">✍️ BlogApp
+Full-featured online store with secure payments via Razorpay.
 
-<img src="https://github.com/user-attachments/assets/81d531cf-c509-4cb6-8566-c6a151610d1f" width="90%" />Modern Blogging Platform
+`MERN Stack` `Razorpay`
 
-"React" "Node.js" "Express" "MongoDB" "Tailwind CSS"
+</td>
+</tr>
+</table>
 
-<br/><a href="https://blogapp-frontend-kvye.onrender.com">
-<img src="https://img.shields.io/badge/✍️%20LIVE%20DEMO-00F72D?style=for-the-badge&logoColor=black"/>
-</a></div>---
+<details>
+<summary><b>🔽 More Projects</b></summary>
+<br/>
 
-<div align="center">🛒 E-Commerce Platform
+| Project | Description | Stack |
+|---|---|---|
+| **JobFinder Platform** | Job board with direct applications | React, Express, MongoDB |
+| **Cricket Ground Booking** | Ground discovery & booking system | MERN Stack |
+| **Food Order System** | Restaurant ordering interface | React, Express, MongoDB |
 
-<a href="https://yourecommercefrontend.onrender.com"><img src="https://github.com/user-attachments/assets/6aefde5f-4873-4168-bf5a-5f81f10ed5ff" width="90%" /></a>Full-Stack E-Commerce Application
+</details>
 
-Includes product management, shopping workflows and Razorpay payment integration.
+<br/>
 
-"React" "Node.js" "Express" "MongoDB" "Razorpay"
+## 📊 GitHub Analytics
 
-<br/><a href="https://yourecommercefrontend.onrender.com">
-<img src="https://img.shields.io/badge/🛒%20LIVE%20DEMO-00F72D?style=for-the-badge&logoColor=black"/>
-</a><a href="https://microgreens-2.onrender.com">
-<img src="https://img.shields.io/badge/🔐%20ADMIN%20PANEL-FF5733?style=for-the-badge&logoColor=black"/>
-</a></div>---
+<div align="center">
 
-🧠 Tech Arsenal
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=cyber-Rahul1&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true&border_color=00F72D&bg_color=0D1117&title_color=00F72D&icon_color=00F72D&ring=00F72D"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyber-Rahul1&layout=compact&langs_count=8&theme=vision-friendly-dark&border_color=00F72D&bg_color=0D1117&title_color=00F72D"/>
 
-<div align="center">Frontend
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=cyber-Rahul1&theme=vision-friendly-dark&border=00F72D&background=0D1117&ring=00F72D&fire=00F72D&currStreakLabel=00F72D"/>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,bootstrap,sass&theme=dark" />Backend
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=cyber-Rahul1&theme=react-dark&bg_color=0D1117&color=00F72D&line=00F72D&point=ffffff&hide_border=true"/>
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase&theme=dark" />Tools & Platforms
+</div>
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,netlify,vercel,postman,docker&theme=dark" /></div>---
+<br/>
 
-📊 GitHub Analytics
+## 🐍 Contribution Snake
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=cyber-Rahul1&show_icons=true&theme=transparent&hide_border=true&title_color=00F72D&icon_color=00F72D&text_color=FFFFFF&bg_color=0D1117&count_private=true&include_all_commits=true" height="180"/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyber-Rahul1&layout=compact&langs_count=8&theme=transparent&hide_border=true&title_color=00F72D&text_color=FFFFFF&bg_color=0D1117" height="180"/></div><br/><div align="center"><img src="https://streak-stats.demolab.com?user=cyber-Rahul1&theme=dark&hide_border=true&background=0D1117&ring=00F72D&fire=00F72D&currStreakLabel=00F72D" width="70%"/></div>---
+<div align="center">
+<img src="https://raw.githubusercontent.com/cyber-Rahul1/cyber-Rahul1/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+</div>
 
-📈 Contribution Activity
+> Note: the snake animation needs a one-time GitHub Action set up on your profile repo — I can walk you through that if you want it live.
 
-<div align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=cyber-Rahul1&bg_color=0D1117&color=FFFFFF&line=00F72D&point=FFFFFF&area=true&hide_border=true" width="95%"/></div>---
+<br/>
 
-🐍 Contribution Snake
+## 🌐 Connect With Me
 
-<div align="center"><img src="https://raw.githubusercontent.com/cyber-Rahul1/cyber-Rahul1/output/github-contribution-grid-snake-dark.svg" width="95%"/></div>---
+<div align="center">
 
-🎯 Current Focus
+<a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Portfolio-00F72D?style=for-the-badge&logo=vercel&logoColor=black"/></a>
+<a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
-<div align="center">┌─────────────────────────────────────────────────────┐
-│                                                     │
-│   ⚡ Advanced MERN Architecture                     │
-│   ⚛️  Advanced React Patterns                       │
-│   🟦 TypeScript                                     │
-│   🏗️  Scalable Backend Architecture                 │
-│   🧠 Data Structures & Algorithms                    │
-│   ☁️  Cloud & Deployment                            │
-│                                                     │
-└─────────────────────────────────────────────────────┘
+</div>
 
-</div>---
+<br/>
 
-💡 Developer Philosophy
+<div align="center">
 
-<div align="center">«"Don't just make it work. Make it understandable, scalable and maintainable."»
+### 💭 Fun Fact
+> When I'm not shipping code, I'm competing in Free Fire or exploring digital art. Balance is key ⚖️
 
-<br/><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3500&pause=800&color=00F72D&center=true&vCenter=true&width=650&lines=Write+clean+code.;Solve+real+problems.;Build+things+people+can+use.;Keep+learning.;Keep+shipping." /></div>---
+<br/>
 
-🌐 Let's Connect
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00F72D,100:0D1117&height=120&section=footer" width="100%"/>
 
-<div align="center"><a href="https://rahul-satvik.netlify.app">
-<img src="https://img.shields.io/badge/🌐%20Portfolio-00F72D?style=for-the-badge&logoColor=black"/>
-</a><a href="https://www.linkedin.com/in/rahul-satvik-ab7980324">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a><a href="https://github.com/cyber-Rahul1">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a><a href="mailto:rahulsatvik09@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a></div><br/><div align="center">⭐ If you find my projects interesting, consider giving them a star!
-
-<br/><img src="https://capsule-render.vercel.app/api?type=waving&color=00F72D&height=120&section=footer&animation=twinkling"/></div>
+</div>
