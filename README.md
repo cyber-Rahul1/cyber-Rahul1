@@ -1,155 +1,183 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello World! I'm Rahul Satvik
+👋 Hey, I'm Rahul Satvik
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=00F72D&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Open+Source+Contributor;MERN+Stack+Enthusiast" alt="Typing SVG" />
-  
-<!-- Add animated matrix background -->
-</div>
+<div align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00F72D&center=true&vCenter=true&width=750&height=60&lines=Full+Stack+Developer;MERN+Stack+Developer;Building+Scalable+Web+Applications;React+%7C+Node.js+%7C+MongoDB+%7C+Next.js;Turning+Ideas+Into+Production+Ready+Apps" alt="Typing SVG" /><br/><img src="https://komarev.com/ghpvc/?username=cyber-Rahul1&label=PROFILE+VIEWS&color=00F72D&style=for-the-badge" alt="Profile views"/><br/><br/>
 
-## 🚀 Featured Projects
+<a href="https://rahul-satvik.netlify.app">
+  <img src="https://img.shields.io/badge/🌐%20Portfolio-00F72D?style=for-the-badge&logoColor=black"/>
+</a>
+<a href="https://www.linkedin.com/in/rahul-satvik-ab7980324">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://github.com/cyber-Rahul1">
+  <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="mailto:rahulsatvik09@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a></div><br/><div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=00F72D&height=120&section=header&animation=twinkling" width="100%"/></div>⚡ About Me
 
-<div align="center" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; margin: 30px 0;">
+const rahul = {
+    role: "Full Stack Developer",
+    location: "India",
+    stack: ["React", "Node.js", "Express", "MongoDB", "Next.js"],
+    languages: ["JavaScript", "TypeScript"],
+    currentlyLearning: [
+        "Advanced React",
+        "System Design",
+        "Backend Architecture",
+        "Scalable Applications"
+    ],
+    mindset: "Build → Learn → Improve → Repeat"
+};
 
+I build full-stack web applications with a focus on clean architecture, responsive interfaces, real-time functionality and scalable backend systems.
 
-
-
-### StudyNotes 
-[<img width="1902" height="871" alt="Screenshot 2025-10-16 131256" src="https://github.com/user-attachments/assets/3b81c032-8cac-4ae6-9cfe-bfbc6b40dc02" />
-](https://notes-sharing-stj7.onrender.com)  
-> A collaborative notes sharing platform where students can upload and access study materials easily. 
-> *Tech*: React, Node.js, MongoDB, Express, TypeScript, TailwindCSS, Cloudinary, Firebase, React Router DOM       
-> [![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-00F72D?style=for-the-badge&logo=render&logoColor=black)](https://notes-sharing-stj7.onrender.com)
-
----
-
-### Instagram Clone  
-[<img width="1905" height="950" alt="Screenshot 2025-07-31 153002" src="https://github.com/user-attachments/assets/12897268-1c3e-45b5-b655-5abd3092d501" />
-](https://instagram-n6oq.onrender.com)  
-> A full-featured social media application with real-time messaging, post uploads, comments, and more.  
-> *Tech*: React, Node.js, MongoDB, Express, Socket.IO, TailwindCSS, Cloudinary, Firebase  
-> [![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-00F72D?style=for-the-badge&logo=render&logoColor=black)](https://instagram-n6oq.onrender.com)
-
----
-
-### JobFinder Platform
-[![Screenshot 2025-04-25 153405](https://github.com/user-attachments/assets/ddd21c07-7139-41b7-851c-ec913d240c34)
-](https://job-hosting-frontend.onrender.com)
-> Job board with direct applications  
-> *Tech*: React, TailwindCSS, Express, Node.js, MongoDB  
-> [![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-00F72D?style=for-the-badge&logo=render&logoColor=black)](https://job-hosting-frontend.onrender.com)
+My primary ecosystem is the MERN stack, while I also work with Next.js, TypeScript, Tailwind CSS, Socket.IO, Cloudinary, Firebase and modern deployment platforms.
 
 ---
 
-### Cricket Ground Booking System
-[![Screenshot 2025-06-10 202245](https://github.com/user-attachments/assets/583f4959-743f-4f33-a142-82d80eee0c7c)
-](https://cricketclub.onrender.com)  
-> Cricket ground discovery and booking platform  
-> *Tech*: MERN Stack (MongoDB, Express, React, Node.js)  
+🚀 Featured Projects
 
-[![Live Demo](https://img.shields.io/badge/🏏_Live_Demo-00F72D?style=for-the-badge&logo=render&logoColor=black)](https://cricketclub.onrender.com)
-&nbsp;
-[![Admin Panel](https://img.shields.io/badge/🔒_Admin_Panel-FF5733?style=for-the-badge&logo=vercel&logoColor=black)](https://cricketclub-admin.onrender.com)
----
+<div align="center">📚 StudyNotes
 
+<a href="https://notes-sharing-stj7.onrender.com"><img src="https://github.com/user-attachments/assets/3b81c032-8cac-4ae6-9cfe-bfbc6b40dc02" width="90%" /></a>Collaborative Notes Sharing Platform
 
-### Food Order System
-[![Screenshot 2025-04-25 153656](https://github.com/user-attachments/assets/96253b1c-2d86-4cb4-a70c-0d97986ee331)
-](https://foodorder-frontend-rmnv.onrender.com)  
-> Restaurant ordering interface  
-> *Tech*: React, TailwindCSS, Express, Nodejs, MongoDB   
+A platform where students can upload, discover and access educational resources.
 
-[![Live Demo](https://img.shields.io/badge/🍔_Live_Demo-00F72D?style=for-the-badge&logo=render&logoColor=black)](https://foodorder-frontend-rmnv.onrender.com)
-&nbsp;
-[![Admin Panel](https://img.shields.io/badge/🔒_Admin_Panel-FF5733?style=for-the-badge&logo=vercel&logoColor=black)](https://foodorder-admin-a9jl.onrender.com)
----
+"React" "TypeScript" "Node.js" "Express" "MongoDB" "Cloudinary" "Firebase" "Tailwind CSS"
 
+<br/><a href="https://notes-sharing-stj7.onrender.com">
+<img src="https://img.shields.io/badge/🚀%20LIVE%20DEMO-00F72D?style=for-the-badge&logoColor=black"/>
+</a></div>---
 
-### BlogApp
-<img width="1869" height="895" alt="Screenshot 2025-08-20 192303" src="https://github.com/user-attachments/assets/81d531cf-c509-4cb6-8566-c6a151610d1f"/> ㅤ
->  Modern blogging platform  
-> *Tech*: MERN Stack (MongoDB, Express, React, Node.js), TailwindCSS
+<div align="center">📸 Instagram Clone
 
- 
-[![Live Demo](https://img.shields.io/badge/✍_Live_Demo-00F72D?style=for-the-badge&logo=render&logoColor=black)](https://blogapp-frontend-kvye.onrender.com)
+<a href="https://instagram-n6oq.onrender.com"><img src="https://github.com/user-attachments/assets/12897268-1c3e-45b5-b655-5abd3092d501" width="90%" /></a>Full-Stack Social Media Platform
 
----
+Includes posts, comments, media uploads, real-time messaging and notifications.
 
-### E-Commerce Website
-[<img width="1903" height="907" alt="Screenshot 2025-08-07 120448" src="https://github.com/user-attachments/assets/6aefde5f-4873-4168-bf5a-5f81f10ed5ff" />
-](https://microgreens-1.onrender.com)  
-> Full-featured online store with secure payments via Razorpay  
-> *Tech*: MERN Stack (MongoDB, Express, React, Node.js), Razorpay Integration  
+"React" "Node.js" "Express" "MongoDB" "Socket.IO" "Cloudinary" "Firebase"
 
-[![Live Demo](https://img.shields.io/badge/🛒_Live_Demo-00F72D?style=for-the-badge&logo=render&logoColor=black)](https://yourecommercefrontend.onrender.com)
-&nbsp;
-[![Admin Panel](https://img.shields.io/badge/🔒_Admin_Panel-FF5733?style=for-the-badge&logo=vercel&logoColor=black)](https://microgreens-2.onrender.com)
+<br/><a href="https://instagram-n6oq.onrender.com">
+<img src="https://img.shields.io/badge/🚀%20LIVE%20DEMO-00F72D?style=for-the-badge&logoColor=black"/>
+</a></div>---
 
+<div align="center">💼 JobFinder
 
+<a href="https://job-hosting-frontend.onrender.com"><img src="https://github.com/user-attachments/assets/ddd21c07-7139-41b7-851c-ec913d240c34" width="90%" /></a>Job Discovery & Application Platform
 
-</div>
+A full-stack job board allowing users to discover jobs and apply directly.
 
+"React" "Tailwind CSS" "Node.js" "Express" "MongoDB"
 
+<br/><a href="https://job-hosting-frontend.onrender.com">
+<img src="https://img.shields.io/badge/🚀%20LIVE%20DEMO-00F72D?style=for-the-badge&logoColor=black"/>
+</a></div>---
 
+<div align="center">🏏 Cricket Ground Booking
 
+<a href="https://cricketclub.onrender.com"><img src="https://github.com/user-attachments/assets/583f4959-743f-4f33-a142-82d80eee0c7c" width="90%" /></a>Ground Discovery & Booking Platform
 
+Users can discover cricket grounds and book available slots through the platform.
 
-## 🚀 Tech Stack
+"MongoDB" "Express" "React" "Node.js"
 
-<p align="center">
+<br/><a href="https://cricketclub.onrender.com">
+<img src="https://img.shields.io/badge/🏏%20LIVE%20DEMO-00F72D?style=for-the-badge&logoColor=black"/>
+</a><a href="https://cricketclub-admin.onrender.com">
+<img src="https://img.shields.io/badge/🔐%20ADMIN%20PANEL-FF5733?style=for-the-badge&logoColor=black"/>
+</a></div>---
 
-| **Frontend** | **Backend** | **Tools** |
-|---|---|---|
-| ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3) | ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js) ![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express) | ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git) ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code) |
-| ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript) | ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb) ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux) | ![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=for-the-badge&logo=netlify) ![GSAP](https://img.shields.io/badge/-GSAP-88CE02?style=for-the-badge&logo=greensock) |
-| ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react) ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap) ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css) | &nbsp; | ![SASS](https://img.shields.io/badge/-SASS-CC6699?style=for-the-badge&logo=sass) |
+<div align="center">🍔 Food Order System
 
-</p>
+<a href="https://foodorder-frontend-rmnv.onrender.com"><img src="https://github.com/user-attachments/assets/96253b1c-2d86-4cb4-a70c-0d97986ee331" width="90%" /></a>Restaurant Ordering Platform
 
+A full-stack food ordering application with customer and administration workflows.
 
+"React" "Tailwind CSS" "Node.js" "Express" "MongoDB"
 
+<br/><a href="https://foodorder-frontend-rmnv.onrender.com">
+<img src="https://img.shields.io/badge/🍔%20LIVE%20DEMO-00F72D?style=for-the-badge&logoColor=black"/>
+</a><a href="https://foodorder-admin-a9jl.onrender.com">
+<img src="https://img.shields.io/badge/🔐%20ADMIN%20PANEL-FF5733?style=for-the-badge&logoColor=black"/>
+</a></div>---
 
+<div align="center">✍️ BlogApp
 
-## 📊 GitHub Analytics
+<img src="https://github.com/user-attachments/assets/81d531cf-c509-4cb6-8566-c6a151610d1f" width="90%" />Modern Blogging Platform
 
-<div align="center">
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cyber-Rahul1&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true&border_color=00F72D&bg_color=0D1117&ring=00F72D&animate=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyber-Rahul1&layout=compact&langs_count=8&theme=vision-friendly-dark&border_color=00F72D&bg_color=0D1117&animate=true"/>
-  
-  
-  
-</div>
+"React" "Node.js" "Express" "MongoDB" "Tailwind CSS"
 
-## 🌐 Connect With Me
+<br/><a href="https://blogapp-frontend-kvye.onrender.com">
+<img src="https://img.shields.io/badge/✍️%20LIVE%20DEMO-00F72D?style=for-the-badge&logoColor=black"/>
+</a></div>---
 
-<div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&animation=glow)](https://www.linkedin.com/in/rahul-satvik-ab7980324)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=#00C7B7&animation=glow)](https://rahul-satvik.netlify.app)
-[![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&animation=glow)](mailto:rahulsatvik09@gmail.com)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&animation=glow)](https://twitter.com)
+<div align="center">🛒 E-Commerce Platform
 
-</div>
+<a href="https://yourecommercefrontend.onrender.com"><img src="https://github.com/user-attachments/assets/6aefde5f-4873-4168-bf5a-5f81f10ed5ff" width="90%" /></a>Full-Stack E-Commerce Application
 
+Includes product management, shopping workflows and Razorpay payment integration.
 
+"React" "Node.js" "Express" "MongoDB" "Razorpay"
 
-## 🛠 Current Focus
+<br/><a href="https://yourecommercefrontend.onrender.com">
+<img src="https://img.shields.io/badge/🛒%20LIVE%20DEMO-00F72D?style=for-the-badge&logoColor=black"/>
+</a><a href="https://microgreens-2.onrender.com">
+<img src="https://img.shields.io/badge/🔐%20ADMIN%20PANEL-FF5733?style=for-the-badge&logoColor=black"/>
+</a></div>---
 
-<div align="center">
+🧠 Tech Arsenal
 
-```diff
-+ Deepening MERN Stack Expertise (MongoDB, Express, React, Node.js)
-! Developing Scalable Full-Stack Applications
-# Mastering Advanced React Patterns
-```
+<div align="center">Frontend
 
-<div align="center">
-  
-> *Fun fact:* When I'm not coding, you'll find me exploring digital art and gaming. Balance is key! ⚖
-  
-</div>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,bootstrap,sass&theme=dark" />Backend
 
-<!-- Animated footer -->
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3c3RoaGJlMm1lbnk4Z2FkZHlsbDd2YmZqM29ueDg0bTBleXJ4Y3V5ZCZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif" width="100%"/>
-</div>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase&theme=dark" />Tools & Platforms
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,netlify,vercel,postman,docker&theme=dark" /></div>---
+
+📊 GitHub Analytics
+
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=cyber-Rahul1&show_icons=true&theme=transparent&hide_border=true&title_color=00F72D&icon_color=00F72D&text_color=FFFFFF&bg_color=0D1117&count_private=true&include_all_commits=true" height="180"/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyber-Rahul1&layout=compact&langs_count=8&theme=transparent&hide_border=true&title_color=00F72D&text_color=FFFFFF&bg_color=0D1117" height="180"/></div><br/><div align="center"><img src="https://streak-stats.demolab.com?user=cyber-Rahul1&theme=dark&hide_border=true&background=0D1117&ring=00F72D&fire=00F72D&currStreakLabel=00F72D" width="70%"/></div>---
+
+📈 Contribution Activity
+
+<div align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=cyber-Rahul1&bg_color=0D1117&color=FFFFFF&line=00F72D&point=FFFFFF&area=true&hide_border=true" width="95%"/></div>---
+
+🐍 Contribution Snake
+
+<div align="center"><img src="https://raw.githubusercontent.com/cyber-Rahul1/cyber-Rahul1/output/github-contribution-grid-snake-dark.svg" width="95%"/></div>---
+
+🎯 Current Focus
+
+<div align="center">┌─────────────────────────────────────────────────────┐
+│                                                     │
+│   ⚡ Advanced MERN Architecture                     │
+│   ⚛️  Advanced React Patterns                       │
+│   🟦 TypeScript                                     │
+│   🏗️  Scalable Backend Architecture                 │
+│   🧠 Data Structures & Algorithms                    │
+│   ☁️  Cloud & Deployment                            │
+│                                                     │
+└─────────────────────────────────────────────────────┘
+
+</div>---
+
+💡 Developer Philosophy
+
+<div align="center">«"Don't just make it work. Make it understandable, scalable and maintainable."»
+
+<br/><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3500&pause=800&color=00F72D&center=true&vCenter=true&width=650&lines=Write+clean+code.;Solve+real+problems.;Build+things+people+can+use.;Keep+learning.;Keep+shipping." /></div>---
+
+🌐 Let's Connect
+
+<div align="center"><a href="https://rahul-satvik.netlify.app">
+<img src="https://img.shields.io/badge/🌐%20Portfolio-00F72D?style=for-the-badge&logoColor=black"/>
+</a><a href="https://www.linkedin.com/in/rahul-satvik-ab7980324">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a><a href="https://github.com/cyber-Rahul1">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a><a href="mailto:rahulsatvik09@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a></div><br/><div align="center">⭐ If you find my projects interesting, consider giving them a star!
+
+<br/><img src="https://capsule-render.vercel.app/api?type=waving&color=00F72D&height=120&section=footer&animation=twinkling"/></div>
