@@ -17,13 +17,13 @@
 
 ## 👋 About Me
 
-<img align="right" width="380" src="https://raw.githubusercontent.com/matiassingers/matiassingers/master/github.gif">
+<img align="right" width="380" src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif">
 
 - 🔭 Currently building **Eduprova** — a large-scale social & educational platform
 - 🎨 Also crafting **Zevion** — a cinematic Next.js agency landing page
 - 🧠 Deep focus on real-time systems: live streaming, calling, and messaging at scale
 - 🌱 Sharpening advanced React patterns & scalable full-stack architecture
-- 🎮 When not coding, competing in **Free Fire** or exploring digital art
+- 🎮 When not coding, deep in a gaming session or exploring digital art
 - 📍 Based in Vizianagaram, India — working as a Team Lead, freelance
 
 <br clear="right"/>
@@ -170,7 +170,6 @@ Full-featured online store with secure payments via Razorpay.
 <img src="https://raw.githubusercontent.com/cyber-Rahul1/cyber-Rahul1/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </div>
 
-> Note: the snake animation needs a one-time GitHub Action set up on your profile repo — I can walk you through that if you want it live.
 
 <br/>
 
@@ -191,7 +190,7 @@ Full-featured online store with secure payments via Razorpay.
 <div align="center">
 
 ### 💭 Fun Fact
-> When I'm not shipping code, I'm competing in Free Fire or exploring digital art. Balance is key ⚖️
+> When I'm not shipping code, I'm grinding ranked matches 🎮 or exploring digital art. Balance is key ⚖️
 
 <br/>
 
