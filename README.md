@@ -170,6 +170,7 @@ Full-featured online store with secure payments via Razorpay.
 <img src="https://raw.githubusercontent.com/cyber-Rahul1/cyber-Rahul1/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </div>
 
+> Note: the snake animation needs a one-time GitHub Action set up on your profile repo — I can walk you through that if you want it live.
 
 <br/>
 
