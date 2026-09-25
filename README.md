@@ -1,10 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00F72D,100:0D1117&height=220&section=header&text=Rahul%20Satvik&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20MERN%20%26%20Next.js&descAlignY=58&descAlign=50" width="100%"/>
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3500&pause=1000&color=00F72D&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;MERN+%2B+Next.js+Enthusiast;Building+Eduprova+%26+Zevion;Open+Source+Contributor" alt="Typing SVG" />
-</a>
+<img src="https://raw.githubusercontent.com/cyber-Rahul1/cyber-Rahul1/main/assets/header.svg" width="100%"/>
 
 <br/>
 
