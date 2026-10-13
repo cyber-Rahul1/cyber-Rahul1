@@ -20,7 +20,7 @@
 - 🧠 Deep focus on real-time systems: live streaming, calling, and messaging at scale
 - 🌱 Sharpening advanced React patterns & scalable full-stack architecture
 - 🎮 When not coding, deep in a gaming session or exploring digital art
-- 📍 Based in Vizianagaram, India — working as a Team Lead, freelance
+- 📍 Based in Visakhapatnam, India — working as a Team Lead, freelance
 
 <br clear="right"/>
 
